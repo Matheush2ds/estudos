@@ -17,6 +17,8 @@ public class ReajusteSaldo {
         System.out.printf("Saldo original: %.2f\n", salario);
         System.out.printf("Saldo com reajuste de 1%%: %.2f\n", ReajusteSaldo);
 
+        scanner.close();
+
     }
     
 }

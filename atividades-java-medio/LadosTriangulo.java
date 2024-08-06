@@ -6,7 +6,7 @@ escreva se ele é equilátero, isósceles ou escaleno. Sendo que:
  Triângulo Escaleno: possui 3 lados diferentes
  */
 
- import java.util.Scanner;
+import java.util.Scanner;
 
 public class LadosTriangulo {
     public static void main(String[] args) {

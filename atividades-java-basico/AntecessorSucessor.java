@@ -12,5 +12,7 @@ public class AntecessorSucessor {
 
         System.out.println("O número Antecessor de " + numero + " é: " + numeroAntecessor);
         System.out.println("O número Sucessor de " + numero + " é: " + numeroSucessor);
+
+        scanner.close();
     }
 }

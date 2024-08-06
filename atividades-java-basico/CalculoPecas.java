@@ -46,6 +46,5 @@ public class CalculoPecas {
         System.out.print("Total a ser pago: R$ " + ValorTotal);
 
         scanner.close();
-
     }
 }
