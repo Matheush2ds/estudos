@@ -30,10 +30,7 @@ console.log (raiz(25));
 
 //------ Arrow function
 
-const arrowraiz = (n) => {
-    return n ** 0.5;
+const arrowraiz = n => n ** 0.5;
 
-};
-
-console.log (raiz(81));
-console.log (raiz(625));
+console.log (arrowraizraiz(81));
+console.log (arrowraiz(625));
