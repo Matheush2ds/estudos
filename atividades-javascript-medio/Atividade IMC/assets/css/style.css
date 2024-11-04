@@ -32,12 +32,12 @@ body {
 }
 
 .imc, .resultado {
-    flex: 1; /* Ocupa o mesmo espaço */
+    flex: 1; 
     margin-right: 10px;
 }
 
 .imc:last-child, .resultado:last-child {
-    margin-right: 0; /* Remove a margem direita do último elemento */
+    margin-right: 0; 
 }
 
 form input, form label, form button {
